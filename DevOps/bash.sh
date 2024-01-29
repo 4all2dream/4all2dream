@@ -1,4 +1,4 @@
-#!/bin/bash changed!!!
+#!/bin/bash changed 22!!!
 COUNTER=0 
 while [ $COUNTER -lt 10 ] 
 do 
